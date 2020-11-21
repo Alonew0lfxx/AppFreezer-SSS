@@ -1,8 +1,6 @@
-## Welcome to Gi
+## App Freezer Soru Cevap Sayafsına Hoş Geldin!
 
-You can use the [editor on GitHub](https://github.com/Alonew0lfxx/AppFreezer-SSS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commi7y, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Uygulamam dondurmuyor veya bana sürekli AYNI hatayı veriyor.
 
 ### Markdown
 
