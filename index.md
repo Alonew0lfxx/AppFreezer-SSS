@@ -5,7 +5,7 @@ Hayır, App Freezer cihaz uygulamalarını dondurmak için root haklarına ihtiy
 Rootsuz uygulama dondurma etkinleştirme işlemleri gelecekte gelecektir, ancak bir bilgisayara
 ihtiyacınız olucaktır ve uygulamanın birkaç izne ihtiyacı var.
 
-# Uygulamam dondurmuyor veya bana sürekli AYNI hatayı veriyor.
+# Uygulamam dondurmuyor veya bana sürekli *aynı* hatayı veriyor.
 Bu sorunun sebebi genellikle root erişimi olmayan cihazlar
 
 ### Markdown
