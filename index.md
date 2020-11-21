@@ -1,11 +1,11 @@
-## App Freezer Soru Cevap Sayafsına Hoş Geldin!
+### App Freezer Soru Cevap Sayafsına Hoş Geldin!
 
-### Bu uygulamayı Rootsuz Kullanabilirmiyim?
+# Bu uygulamayı Rootsuz Kullanabilirmiyim?
 Hayır, App Freezer cihaz uygulamalarını dondurmak için root haklarına ihtiyaç duyar.
 Rootsuz uygulama dondurma etkinleştirme işlemleri gelecekte gelecektir, ancak bir bilgisayara
 ihtiyacınız olucaktır ve uygulamanın birkaç izne ihtiyacı var.
 
-### Uygulamam dondurmuyor veya bana sürekli AYNI hatayı veriyor.
+# Uygulamam dondurmuyor veya bana sürekli AYNI hatayı veriyor.
 Bu sorunun sebebi genellikle root erişimi olmayan cihazlar
 
 ### Markdown
