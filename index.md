@@ -28,8 +28,8 @@ by pressing and holding it on the notification.
 
 
 
-### Background Service Doesn't Working / Freezing My Apps
-There may be more than one cause for this problem. Your Root Manager
+### Background Service Doesn't Working / Freezing My Apps 
+There may be more than one cause for this problem. Your Root Manager 
 may not allow for security reasons when your screen is locked. Check the Root Manager's settings.
 
 Go to the site below that are same manufacturer with your device.
