@@ -10,13 +10,18 @@ ihtiyacınız olucaktır ve uygulamanın birkaç izne ihtiyacı var.
 Bu sorunun sebebi genellikle root erişimi olmadğı zaman verilir.
 Eğer root haklarının uygulama verildiğinden eminseniz; hata kodunu geliştiriciye 
 aşağıdaki mesaj butonuna basarak gönderebilirsiniz.
+![Image](https://github.com/Alonew0lfxx/AppFreezer-SSS/blob/main/errorExample_tr.jpeg)
+
 
 
 # Arkaplan Servisi
 
 ### Arkaplan Servisi Çalışmıyor, Favori Uygulamalarım Dondurulmuyor
-Bu sorunun birden fazla temel sebebi olabilir. Aşağıdaki sitelerden cihazla
-uygun olan siteye gidin. Sitedeki yönergeleri **App Freezer** uygulaması için yaptığınızdan emin olun.
+Bu sorunun birden fazla temel sebebi olabilir. Root Yönetici uygulamanız ekranınız kilitli iken
+güvenlik amacı nedeniyle izin vermiyor olabilr. Root Yöneticisinin ayarlarına bakınız.
+
+Aşağıdaki sitelerden cihazla uygun olan siteye gidin.
+Sitedeki yönergeleri **App Freezer** uygulaması için yaptığınızdan emin olun.
 
 [AOSP/ Pixel / Nexus Cihazlar](https://dontkillmyapp.com/google) 
 
