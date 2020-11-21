@@ -1,4 +1,4 @@
-### Welcome To App Freezer SSS
+### Welcome To App Freezer SSSs
 
 # Errors
 ## Can I Use App Freezer On a Rootless Device
