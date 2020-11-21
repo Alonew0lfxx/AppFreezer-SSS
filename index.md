@@ -6,7 +6,7 @@ Rootsuz uygulama dondurma etkinleştirme işlemleri gelecekte gelecektir, ancak 
 ihtiyacınız olucaktır ve uygulamanın birkaç izne ihtiyacı var.
 
 # Uygulamam Dondurmuyor Veya Bana Sürekli Aynı Hatayı Veriyor.
-Bu sorunun sebebi genellikle root erişimi olmayan cihazlar
+Bu sorunun sebebi genellikle root erişimi olmayan cihazlar 
 
 ### Markdown
 
