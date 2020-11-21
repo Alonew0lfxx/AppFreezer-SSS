@@ -1,20 +1,20 @@
 ### App Freezer Soru Cevap Sayafsına Hoş Geldin!
 
-## Hatalar
-# Bu uygulamayı Rootsuz Kullanabilirmiyim?
+# Hatalar
+## Bu uygulamayı Rootsuz Kullanabilirmiyim?
 Hayır, App Freezer cihaz uygulamalarını dondurmak için root haklarına ihtiyaç duyar.
 Rootsuz uygulama dondurma etkinleştirme işlemleri gelecekte gelecektir, ancak bir bilgisayara
 ihtiyacınız olucaktır ve uygulamanın birkaç izne ihtiyacı var.
 
-# Uygulamam Dondurmuyor Veya Bana Sürekli Aynı Hatayı Veriyor
+## Uygulamam Dondurmuyor Veya Bana Sürekli Aynı Hatayı Veriyor
 Bu sorunun sebebi genellikle root erişimi olmadğı zaman verilir.
 Eğer root haklarının uygulama verildiğinden eminseniz; hata kodunu geliştiriciye 
 aşağıdaki mesaj butonuna basarak gönderebilirsiniz.
 
 
-## Arkaplan Servisi
+# Arkaplan Servisi
 
-# Arkaplan Servisi Çalışmıyor, Favori Uygulamalarım Dondurulmuyor
+### Arkaplan Servisi Çalışmıyor, Favori Uygulamalarım Dondurulmuyor
 Bu sorunun birden fazla temel sebebi olabilir. Aşağıdaki sitelerden cihazla
 uygun olan siteye gidin. Sitedeki yönergeleri **App Freezer** uygulaması için yaptığınızdan emin olun.
 
