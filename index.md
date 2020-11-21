@@ -7,7 +7,7 @@ non-root devices will come in the future, but you will need a computer
 because the app will need a few more permissions.
 
 ## App Freezer Doesn't Freezing The Apps Or Giving Errors Always 
-The problem is usually given when there is no root access. D
+The problem is usually given when there is no root access. 
 If you are sure that root rights are granted; You can send 
 the error code to the developer by clicking the message button below.
 
