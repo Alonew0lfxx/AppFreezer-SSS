@@ -11,7 +11,7 @@ The cause of this problem is usually given when there is no root access.
 If you are sure that root rights are granted; You can send
 the error code to the developer by clicking the message button below.
 
-![Image]((https://raw.githubusercontent.com/Alonew0lfxx/AppFreezer-SSS/main/ss_error.png)
+![Image](https://raw.githubusercontent.com/Alonew0lfxx/AppFreezer-SSS/main/ss_error.png)
 
 
 # Background Service
@@ -47,5 +47,5 @@ Be sure to follow the instructions on the site for the **App Freezer** applicati
  
 
 # Send Your Thoughts To Me!
-## [Mail](kolversoftware@gmail.com)
+## kolversoftware@gmail.com
 
