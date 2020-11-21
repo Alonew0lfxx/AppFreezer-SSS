@@ -18,11 +18,16 @@ aşağıdaki mesaj butonuna basarak gönderebilirsiniz.
 Bu sorunun birden fazla temel sebebi olabilir. Aşağıdaki sitelerden cihazla
 uygun olan siteye gidin. Sitedeki yönergeleri **App Freezer** uygulaması için yaptığınızdan emin olun.
 
-[AOSP/ Pixel / Nexus Cihazlar](https://dontkillmyapp.com/google)
-[Samsung Cihazlar](https://dontkillmyapp.com/samsung)
-[Huawei Cihazlar](https://dontkillmyapp.com/huawei)
-[Xiaomi Cihazlar](https://dontkillmyapp.com/xiaomi)
-[Diğer Cihazlar İçin](https://dontkillmyapp.com)
+[AOSP/ Pixel / Nexus Cihazlar](https://dontkillmyapp.com/google) 
+
+[Samsung Cihazlar](https://dontkillmyapp.com/samsung) 
+
+[Huawei Cihazlar](https://dontkillmyapp.com/huawei) 
+
+[Xiaomi Cihazlar](https://dontkillmyapp.com/xiaomi) 
+
+[Diğer Cihazlar İçin](https://dontkillmyapp.com) 
+
 
 
 ### Markdown
