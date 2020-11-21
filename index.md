@@ -48,4 +48,3 @@ Be sure to follow the instructions on the site for the **App Freezer** applicati
 
 # Send Your Thoughts To Me!
 ## kolversoftware@gmail.com
- 
