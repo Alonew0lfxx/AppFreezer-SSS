@@ -1,68 +1,51 @@
-### App Freezer Soru Cevap Sayafsına Hoş Geldin!
+### Welcome To App Freezer SSS
 
-# Hatalar
-## Bu uygulamayı Rootsuz Kullanabilirmiyim?
-Hayır, App Freezer cihaz uygulamalarını dondurmak için root haklarına ihtiyaç duyar.
-Rootsuz uygulama dondurma etkinleştirme işlemleri gelecekte gelecektir, ancak bir bilgisayara
-ihtiyacınız olucaktır ve uygulamanın birkaç izne ihtiyacı var.
+# Errors
+## Can I Use App Freezer On a Rootless Device
+No, App Freezer device needs root rights to freeze apps.Freezing apps on
+non-root devices will come in the future, but you will need a computer
+because the app will need a few more permissions.
 
-## Uygulamam Dondurmuyor Veya Bana Sürekli Aynı Hatayı Veriyor
-Bu sorunun sebebi genellikle root erişimi olmadğı zaman verilir.
-Eğer root haklarının uygulama verildiğinden eminseniz; hata kodunu geliştiriciye 
-aşağıdaki mesaj butonuna basarak gönderebilirsiniz.
-![Image](https://github.com/Alonew0lfxx/AppFreezer-SSS/blob/main/errorExample_tr.jpeg)
+## App Freezer Doesn't Freezing The Apps Or Giving Errors Always
+The cause of this problem is usually given when there is no root access. 
+If you are sure that root rights are granted; You can send
+the error code to the developer by clicking the message button below.
+
+![Image](https://github.com/Alonew0lfxx/AppFreezer-SSS/blob/main/ss_error.png)
 
 
+# Background Service
 
-# Arkaplan Servisi
+### I'm getting a notification that doesn't removable
+In the new Android security policies, apps must show notifications when they
+run in the background. however, you can hide this notification
+by pressing and holding it on the notification.
 
-### Arkaplan Servisi Çalışmıyor, Favori Uygulamalarım Dondurulmuyor
-Bu sorunun birden fazla temel sebebi olabilir. Root Yönetici uygulamanız ekranınız kilitli iken
-güvenlik amacı nedeniyle izin vermiyor olabilr. Root Yöneticisinin ayarlarına bakınız.
 
-Aşağıdaki sitelerden cihazla uygun olan siteye gidin.
-Sitedeki yönergeleri **App Freezer** uygulaması için yaptığınızdan emin olun.
+![Removing The Notification](https://github.com/Alonew0lfxx/AppFreezer-SSS/blob/main/ss_notif.png)
 
-[AOSP/ Pixel / Nexus Cihazlar](https://dontkillmyapp.com/google) 
-
-[Samsung Cihazlar](https://dontkillmyapp.com/samsung) 
-
-[Huawei Cihazlar](https://dontkillmyapp.com/huawei) 
-
-[Xiaomi Cihazlar](https://dontkillmyapp.com/xiaomi) 
-
-[Diğer Cihazlar İçin](https://dontkillmyapp.com) 
+![Removing The Notification2](https://github.com/Alonew0lfxx/AppFreezer-SSS/blob/main/ss_notif2.png)
 
 
 
-### Markdown
+### Background Service Doesn't Working / Freezing My Apps
+There may be more than one cause for this problem. Your Root Manager
+may not allow for security reasons when your screen is locked. Check the Root Manager's settings.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
- 
-```markdown
-Syntax highlighted code block
+Go to the site below that are same manufacturer with your device.
+Be sure to follow the instructions on the site for the **App Freezer** application.
 
-# Header 1
-## Header 2
-### Header 3
+[AOSP/ Pixel / Nexus Devices](https://dontkillmyapp.com/google) 
 
-- Bulleted
-- List  
+[Samsung Devices](https://dontkillmyapp.com/samsung) 
 
-1. Numbered
-2. List
+[Huawei Devices](https://dontkillmyapp.com/huawei) 
 
-**Bold** and _Italic_ and `Code` text
+[Xiaomi Devices](https://dontkillmyapp.com/xiaomi) 
 
-[Link](url) and ![Image](src)
-```
+[Other Devices](https://dontkillmyapp.com) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Send Your Thoughts To Me!
+## kolversoftware@gmail.com
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alonew0lfxx/AppFreezer-SSS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
