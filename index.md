@@ -1,4 +1,4 @@
-### Welcome To App Freezer SSSs
+### Welcome To App Freezer SSS
 
 # Errors
 ## Can I Use App Freezer On a Rootless Device
@@ -47,5 +47,5 @@ Be sure to follow the instructions on the site for the **App Freezer** applicati
  
 
 # Send Your Thoughts To Me!
-## kolversoftware@gmail.com
+## [Mail](kolversoftware@gmail.com)
 
