@@ -11,7 +11,7 @@ The cause of this problem is usually given when there is no root access.
 If you are sure that root rights are granted; You can send
 the error code to the developer by clicking the message button below.
 
-![Image](https://github.com/Alonew0lfxx/AppFreezer-SSS/blob/main/ss_error.png)
+![Image]((https://raw.githubusercontent.com/Alonew0lfxx/AppFreezer-SSS/main/ss_error.png)
 
 
 # Background Service
@@ -22,9 +22,9 @@ run in the background. however, you can hide this notification
 by pressing and holding it on the notification.
 
 
-![Removing The Notification](https://github.com/Alonew0lfxx/AppFreezer-SSS/blob/main/ss_notif.png)
+![Removing The Notification](https://raw.githubusercontent.com/Alonew0lfxx/AppFreezer-SSS/main/ss_notif.png)
 
-![Removing The Notification2](https://github.com/Alonew0lfxx/AppFreezer-SSS/blob/main/ss_notif2.png)
+![Removing The Notification2](https://raw.githubusercontent.com/Alonew0lfxx/AppFreezer-SSS/main/ss_notif2.png)
 
 
 
@@ -44,7 +44,7 @@ Be sure to follow the instructions on the site for the **App Freezer** applicati
 [Xiaomi Devices](https://dontkillmyapp.com/xiaomi) 
 
 [Other Devices](https://dontkillmyapp.com) 
-
+ 
 
 # Send Your Thoughts To Me!
 ## kolversoftware@gmail.com
